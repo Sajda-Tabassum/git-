@@ -1,5 +1,2 @@
-Adding animals
-add 1 dog
-add 2 cat
 add 3 lion
 add 4 elephant

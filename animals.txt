@@ -1,0 +1,3 @@
+Adding animals
+add 1 dog
+add 2 cat
